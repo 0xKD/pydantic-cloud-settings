@@ -1,2 +1,2 @@
 google-cloud-secret-manager~=2.2.0
-pydantic~=1.7.3
+pydantic>=1.7.0,<1.8
